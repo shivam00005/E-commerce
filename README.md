@@ -28,7 +28,7 @@ It's dynamic website with functionalities.
 - User can also remove their credential from wesite by deleting their account.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/shivam00005/ecommerce/main/screenshots/home-page.png" alt="home page">
+<img src="https://raw.githubusercontent.com/shivam00005/ecommerce/main/home-page.png" alt="home page">
 
 ## :information_desk_person: Demo
 
