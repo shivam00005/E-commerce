@@ -1,7 +1,11 @@
 
 # :briefcase: Ecommerce Website
 
-This is an Ecommerce Website.
+This Ecommerce website is a fully responsive and dynamic platform built with Bootstrap, Php, CSS3, and mySql. It provides users with a variety of features, including a search bar and filter functionality, a personal cart where chosen items can be placed, and the ability to update their profile data and picture.
+
+To access the website, users need to sign in with their email and password, or register as a new user to access the profile functionality. Users can also change their password by entering their old and new passwords, or delete their account to remove their credentials from the website.
+
+The website was created to provide a user-friendly and efficient platform for online shopping, allowing customers to easily browse and purchase products. The use of Bootstrap and CSS3 ensures a visually appealing and fully responsive design, while the Php and mySql backend provides the necessary functionality to support the shopping experience. Overall, this Ecommerce website offers a convenient and secure way for customers to shop online.
 
 ## :page_with_curl:	 Features
 
